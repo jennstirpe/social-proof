@@ -79,6 +79,8 @@ section {
         .rating-description {
             color: $dark-magenta;
             font-weight: 700;
+            display: inline;
+            font-size: 1rem;
         }
     }   
 }
@@ -112,6 +114,7 @@ section {
                 .name {
                     font-weight: 700;
                     margin-bottom: .4rem;
+                    font-size: 1rem;
                 }
 
                 .verification {
